@@ -1,37 +1,24 @@
-### Olá, Sou eu 👋
+# 💫 About Me:
+Olá, Sou eu 👋<br>🌱 Em fase de crescimento...<br>🤔 Ainda preso no mesmo bug...<br>💬 Não me pergunte, pois não sei.
 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EduardoAlvez&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EduardoAlvez&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlvez&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 PvU...
-- 🤔 Ainda estou pensando na pergunta que você nao me fez...
-- 💬 Não me pergunte, pois nao sei.
+### ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-##
+### 🔝 
+![](https://github-contributor-stats.vercel.app/api?username=EduardoAlvez&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <a href="https://github.com/EduardoAlvez">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=EduardoAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlves&layout=compact&langs_count=7&theme=dark"/>
-</div>
+### 
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <!-- <img align="right" alt="du-pic" height="150" style="border-radius:50px;" src=""> -->
-  
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=EduardoAlvez&icon=7&color=6)](https://visitcount.itsvg.in)
 
-##
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
