@@ -1,5 +1,5 @@
 # 💫 Você me achou, parabéns
-Olá, Sou eu, Eduardo 👋<br>🌱 Pernambucano em fase de crescimento...<br>🤔 Ainda preso no mesmo bug...<br>💬 Ainda não sei, mas vou saber.
+Olá sou eu, Eduardo 👋<br>🌱 Pernambucano em fase de crescimento...<br>🤔 Ainda preso no mesmo bug...<br>💬 Ainda não sei, mas vou saber.
 
 
 # 💻 Tech Stack:
