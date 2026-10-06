@@ -17,7 +17,7 @@
 
 ## 🙋 Sobre mim
 
-- 🎓 Cursando **Sistemas de Informação** na UFPB
+- 🎓 Formado em **Sistemas de Informação** na UFPB
 - ☕ Desenvolvedor **Java** — desktop com **Swing** e backend com **Spring**
 - ✅ Qualidade de verdade: **+300 testes JUnit** somando os projetos e
   **CI no GitHub Actions** rodando a cada push
@@ -35,7 +35,6 @@
 | [**jogo-snake-java**](https://github.com/EduardoAlvez/jogo-snake-java) | Snake em Java 17 + Swing: grade 16×16, dois poderes, quatro skins (três vetoriais e o Dedinho em sprites) e recorde gravado em disco. **231 testes**, sem dependência de execução. |
 | [**jogo-pong-java**](https://github.com/EduardoAlvez/jogo-pong-java) | Pong em Swing para 2 jogadores ou contra o computador, com skins, prêmios, bola de fogo e efeitos. Executável para Windows e jar. |
 | [**Jogo-da-forca-java**](https://github.com/EduardoAlvez/Jogo-da-forca-java) | Forca em Swing — um dos primeiros projetos do portfólio. |
-| [**activities-management-backend**](https://github.com/EduardoAlvez/activities-management-backend) | Backend para gestão de perguntas e respostas de atividades. |
 
 ---
 
