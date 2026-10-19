@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Eduardo Alves</h1>
 
 <p align="center">
-  <strong>Dev Java</strong> · Pernambucano em fase de crescimento 🌱 · 🎯 Em busca do primeiro emprego
+  <strong>Dev Java</strong> · Pernambucano em fase de crescimento  ·  Em busca do primeiro emprego
 </p>
 
 <p align="center">
